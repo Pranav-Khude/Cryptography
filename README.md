@@ -1,2 +1,2 @@
 # Cryptography
-Labs Assignments
+Lab Assignments
